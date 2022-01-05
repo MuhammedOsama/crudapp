@@ -1,0 +1,21 @@
+li {
+    margin: 15px 0;
+
+    span {
+        display: inline-block;
+        padding: 0 15px;
+        width: 60%;
+        color: #6a6a6a;
+    }
+
+    button:first-of-type {
+        background: #6a6a6a;
+        margin-right: 1%;
+        width: 19%;
+
+    }
+
+    button:last-of-type {
+        background: #d9534f;
+    }
+}
